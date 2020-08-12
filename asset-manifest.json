@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/clinic-test/static/css/main.19ffea7e.chunk.css",
+    "main.js": "/clinic-test/static/js/main.98e8f57e.chunk.js",
+    "main.js.map": "/clinic-test/static/js/main.98e8f57e.chunk.js.map",
+    "runtime-main.js": "/clinic-test/static/js/runtime-main.8cdf6a7e.js",
+    "runtime-main.js.map": "/clinic-test/static/js/runtime-main.8cdf6a7e.js.map",
+    "static/js/2.773503f2.chunk.js": "/clinic-test/static/js/2.773503f2.chunk.js",
+    "static/js/2.773503f2.chunk.js.map": "/clinic-test/static/js/2.773503f2.chunk.js.map",
+    "index.html": "/clinic-test/index.html",
+    "precache-manifest.a057201b86f340b1005d0bb4ee45352d.js": "/clinic-test/precache-manifest.a057201b86f340b1005d0bb4ee45352d.js",
+    "service-worker.js": "/clinic-test/service-worker.js",
+    "static/css/main.19ffea7e.chunk.css.map": "/clinic-test/static/css/main.19ffea7e.chunk.css.map",
+    "static/js/2.773503f2.chunk.js.LICENSE.txt": "/clinic-test/static/js/2.773503f2.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/clinic-test/static/media/lato-regular.56f135a5.woff2",
+    "static/media/MaskGroup.jpg": "/clinic-test/static/media/MaskGroup.9f79788b.jpg",
+    "static/media/Star.svg": "/clinic-test/static/media/Star.d55bae34.svg",
+    "static/media/header.jpg": "/clinic-test/static/media/header.664f2af3.jpg",
+    "static/media/header.png": "/clinic-test/static/media/header.c4f4e9d8.png",
+    "static/media/image4.png": "/clinic-test/static/media/image4.5b341504.png",
+    "static/media/neuro-image.png": "/clinic-test/static/media/neuro-image.3a9ddf54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cdf6a7e.js",
+    "static/js/2.773503f2.chunk.js",
+    "static/css/main.19ffea7e.chunk.css",
+    "static/js/main.98e8f57e.chunk.js"
+  ]
+}
