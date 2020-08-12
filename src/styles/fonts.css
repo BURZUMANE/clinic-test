@@ -1,0 +1,40 @@
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/lato-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-Regular'),
+    url('../assets/fonts/lato-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('../assets/fonts/lato-regular.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('../assets/fonts/lato-regular.woff')
+      format('woff'); /* Modern Browsers */
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/lato-bold.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-bold'),
+    url('../assets/fonts/lato-bold.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */ url('../assets/fonts/lato-bold.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('../assets/fonts/lato-bold.woff')
+      format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'PF-Din-Text-Cond-Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/PFDinTextCondPro-Regular.ttf'); /* IE9 Compat Modes */
+  src: local('PF Din Text Cond Pro'), local('PF-Din-Text-Cond-Pro'),
+    url('../assets/fonts/PFDinTextCondPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HelveticaNeueCyr-Thin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/HelveticaNeueCyr-Thin.otf'); /* IE9 Compat Modes */
+  src: local('HelveticaNeueCyr Thin'), local('HelveticaNeueCyr-Thin'),
+    url('../assets/fonts/HelveticaNeueCyr-Thin.otf') format('opentype');
+}
